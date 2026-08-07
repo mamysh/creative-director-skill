@@ -290,6 +290,10 @@ Run pipeline: edit/add cards → validate → regenerate MOCs → regenerate lin
 **Quick ideation:**
 > "Need 5 concepts for [brand] social media posts about [topic]."
 
+## Next in the Pipeline
+
+This skill delivers the idea and the script. To turn them into frames and footage, use the sibling repo **[visual-skills](https://github.com/smixs/visual-skills)** — two skills that pick up where this one stops: `image` writes art-director-grade prompts for keyframes, character sheets and storyboards (Nano Banana, GPT Image 2), `video` turns them into director-grade prompts for Seedance, Kling and Veo. Full chain: **idea & script (this skill) → keyframes (`image`) → motion (`video`)**.
+
 ## What It's Not For
 
 - Media planning or budget allocation
