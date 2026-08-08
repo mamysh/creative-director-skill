@@ -243,6 +243,12 @@ npx skills add smixs/creative-director-skill -g     # globally, for all projects
 npx skills update creative-director                 # update to latest
 ```
 
+**The full Creative Agency pack** — `creative-director`, `image` and `video` in one command:
+
+```bash
+npx skills add https://skills.sh/p/nuK9jo3sTCZGB2Ul
+```
+
 Or manually (Claude Code):
 
 ```bash
